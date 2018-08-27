@@ -1,5 +1,11 @@
 import java.util.*;
 
+/**
+ * 2016년
+ * https://programmers.co.kr/learn/courses/30/lessons/12901?language=java
+ * @author hyojooc
+ *
+ */
 class Solution {
     public String solution(int a, int b) {
         String[] calHeader = {"SUN","MON","TUE","WED","THU","FRI","SAT"};
